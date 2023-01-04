@@ -1,0 +1,29 @@
+.foot_box{
+    color: white!important;
+}
+.foot_box h5{
+    color: white !important;
+    font-size: 1rem;
+    font-weight: 500 !important;
+
+}
+.use_link{
+    color: white !important;
+}
+.foot_box span{
+
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+
+}
+.foot_box p{
+    color: wheat !important;
+
+}
+.foot_box h4{
+    color: coral;
+}
+.card{
+   align-items: center; 
+
+}
